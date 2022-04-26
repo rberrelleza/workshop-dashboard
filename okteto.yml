@@ -1,0 +1,5 @@
+build:
+  workshop:
+    context: dashboard
+deploy:
+  compose: docker-compose.yaml
